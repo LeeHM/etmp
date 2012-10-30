@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Euro Truck Multiplayer - DLL", "Euro Truck Multiplayer - DLL\Euro Truck Multiplayer - DLL.vcxproj", "{80249107-AB9C-41E3-B9CC-D7FF00BBF1A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Euro Truck Multiplayer - Server", "Euro Truck Multiplayer - Server\Euro Truck Multiplayer - Server.vcxproj", "{17EF45C4-E9E3-4C9E-B02D-05015F2182A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Euro Truck Multiplayer - Client", "Euro Truck Multiplayer - Client\Euro Truck Multiplayer - Client.vcxproj", "{F0BDA34A-A71D-419E-9084-17E9A7945F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80249107-AB9C-41E3-B9CC-D7FF00BBF1A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80249107-AB9C-41E3-B9CC-D7FF00BBF1A7}.Debug|Win32.Build.0 = Debug|Win32
+		{80249107-AB9C-41E3-B9CC-D7FF00BBF1A7}.Release|Win32.ActiveCfg = Release|Win32
+		{80249107-AB9C-41E3-B9CC-D7FF00BBF1A7}.Release|Win32.Build.0 = Release|Win32
+		{17EF45C4-E9E3-4C9E-B02D-05015F2182A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17EF45C4-E9E3-4C9E-B02D-05015F2182A4}.Debug|Win32.Build.0 = Debug|Win32
+		{17EF45C4-E9E3-4C9E-B02D-05015F2182A4}.Release|Win32.ActiveCfg = Release|Win32
+		{17EF45C4-E9E3-4C9E-B02D-05015F2182A4}.Release|Win32.Build.0 = Release|Win32
+		{F0BDA34A-A71D-419E-9084-17E9A7945F8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0BDA34A-A71D-419E-9084-17E9A7945F8E}.Debug|Win32.Build.0 = Debug|Win32
+		{F0BDA34A-A71D-419E-9084-17E9A7945F8E}.Release|Win32.ActiveCfg = Release|Win32
+		{F0BDA34A-A71D-419E-9084-17E9A7945F8E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

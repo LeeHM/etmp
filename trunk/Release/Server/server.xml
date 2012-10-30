@@ -1,0 +1,16 @@
+<server>
+    <!-- Nazwa serwera. -->
+	<hostname>My trucking server!</hostname>
+	
+	<!-- Port -->
+	<port>9999</port>
+	
+	<!-- Slot -->
+	<maxplayers>32</maxplayers>
+	
+	<!-- Opcjonalne zbindowane ip serwera. -->
+	<!-- serverip></serverip -->
+	
+	<!-- Zasoby -->
+	<resource name="example" />
+</server>
