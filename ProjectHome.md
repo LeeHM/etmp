@@ -1,0 +1,1 @@
+This is a multiplayer modification for eurotrucksimulator 2..
